@@ -178,9 +178,8 @@ Reference sources:
 
 ## 👩‍💻 Author
 
-**Pooja Venugopal Baskaran**  
-M.S. Data Science — DePaul University  
-[GitHub](https://github.com/Pooja2420) · [LinkedIn](https://linkedin.com/in/pooja-venugopal-baskaran)
+**Pooja Venugopal Baskaran**    
+[LinkedIn](https://linkedin.com/in/pooja-venugopal-baskaran)
 
 ---
 
